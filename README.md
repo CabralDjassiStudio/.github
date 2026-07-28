@@ -59,7 +59,7 @@ Good technology should feel intuitive, work reliably, and remain capable of evol
 
 ## Vision
 
-Our vision is to build globally relevant technology with a distinctive identity—combining local perspective, thoughtful design, and strong engineering.
+Our vision is to build globally relevant technology with a distinctive identity—combining Cape Verdean roots, thoughtful design, and strong engineering.
 
 > Cape Verdean roots. Global perspective. Meaningful technology.
 

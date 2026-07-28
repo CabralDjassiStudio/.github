@@ -59,7 +59,7 @@ Une bonne technologie doit être intuitive, fiable et capable d’évoluer avec 
 
 ## Vision
 
-Notre vision est de créer une technologie pertinente à l’échelle mondiale et porteuse d’une identité distinctive—en associant perspective locale, design réfléchi et ingénierie solide.
+Notre vision est de créer une technologie pertinente à l’échelle mondiale et porteuse d’une identité distinctive—en associant racines cap-verdiennes, design réfléchi et ingénierie solide.
 
 > Racines cap-verdiennes. Perspective mondiale. Une technologie qui a du sens.
 

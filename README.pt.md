@@ -59,7 +59,7 @@ Uma boa tecnologia deve ser intuitiva, funcionar de forma fiável e acompanhar a
 
 ## Visão
 
-A nossa visão é criar tecnologia globalmente relevante e com uma identidade própria—combinando perspetiva local, design cuidado e engenharia sólida.
+A nossa visão é criar tecnologia globalmente relevante e com uma identidade própria—combinando raízes cabo-verdianas, design cuidado e engenharia sólida.
 
 > Raízes cabo-verdianas. Perspetiva global. Tecnologia com significado.
 
