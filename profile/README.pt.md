@@ -2,77 +2,71 @@
 
 # Cabral Djassi Studio
 
-### Experiências digitais pensadas com propósito. Engenharia fiável. Perspetiva global.
+### Produtos digitais com raízes cabo-verdianas e uma visão mundial.
 
-<p>
-  <a href="./README.md">English</a> ·
-  <strong>Português</strong> ·
-  <a href="./README.fr.md">Français</a>
-</p>
+[English](README.md) · [Português](README.pt.md) · [Français](README.fr.md)
 
-<p>
-  <a href="https://cabral-djassi-studio.vercel.app/"><strong>Visitar o Studio ↗</strong></a>
-</p>
+[Visitar o Studio](https://cabral-djassi-studio.vercel.app/)
 
 </div>
 
 ---
 
-## Sobre
+## Sobre o Studio
 
-O Cabral Djassi Studio é um estúdio independente de produtos digitais e engenharia, com raízes cabo-verdianas e uma visão global.
+A Cabral Djassi Studio é um estúdio independente de produtos digitais e
+software, dedicado à criação de experiências tecnológicas cuidadas, fiáveis,
+distintas e preparadas para o futuro.
 
-Transformamos ideias e desafios reais em experiências digitais bem pensadas, software escalável e tecnologia fiável. O nosso trabalho combina estratégia de produto, design moderno e engenharia sólida para criar soluções úteis, acessíveis e preparadas para evoluir.
+O Studio combina estratégia de produto, engenharia de software, design de
+interfaces, automação, dados e tecnologias emergentes para transformar ideias
+em produtos digitais coerentes. O trabalho é orientado por uma perspetiva
+global, por raízes cabo-verdianas e pelo compromisso de criar sistemas úteis,
+inclusivos, sustentáveis e preparados para evoluir.
 
-O nome **Djassi** representa identidade, criatividade e a ambição de construir tecnologia a partir da nossa própria perspetiva—ligada a África e aberta ao mundo.
+## O que valorizamos
 
-## O que define o Studio
+**Propósito antes das funcionalidades**  
+Cada produto deve resolver um problema relevante e comunicar claramente o seu valor.
 
-- Estratégia e design de produto orientados por propósito
-- Experiências modernas, acessíveis e responsivas
-- Engenharia fiável, segura e sustentável
-- Aplicação criteriosa de inteligência artificial
-- Arquitetura de sistemas escalável
-- Experiências digitais interativas e orientadas por movimento
-- Tecnologia adaptada a pessoas e contextos reais
+**Design com identidade**  
+As interfaces devem ser intencionais, humanas e diferentes de experiências
+genéricas baseadas em templates.
 
-## Como pensamos a engenharia
+**Engenharia para a continuidade**  
+Arquitetura, segurança, acessibilidade, documentação e manutenção são requisitos
+centrais do produto.
 
-O nosso trabalho vai além da interface. Cada produto é tratado como um sistema completo—desde a experiência visível até à arquitetura, segurança, desempenho, dados e integrações que o sustentam.
+**Alcance global, consciência local**  
+Os produtos são concebidos para diferentes utilizadores e contextos, preservando
+a perspetiva cultural que orienta o Studio.
 
-Damos especial atenção a:
+## Áreas de atuação
 
-- APIs claras e integrações bem organizadas
-- Autenticação segura e proteção de endpoints sensíveis
-- Dados bem modelados e índices adequados
-- Desempenho, cache e escalabilidade
-- Resiliência e recuperação controlada perante falhas
-- Operações idempotentes e prevenção de duplicações
-- Processamento em segundo plano para tarefas demoradas
-- Código sustentável e validações relevantes
+- Produtos digitais e plataformas SaaS
+- Aplicações Web e serviços conectados
+- Automação de workflows e processos
+- Sistemas operacionais orientados por dados
+- Experiências de produto assistidas por IA
+- Arquitetura de produto e design systems
 
-## A nossa abordagem
+## Aviso sobre repositórios
 
-Começamos por compreender o problema e o seu contexto. Depois definimos a experiência do produto, desenhamos o sistema, construímos com rigor, validamos o resultado e continuamos a melhorá-lo.
+Os repositórios públicos podem utilizar licenças diferentes conforme a sua
+finalidade. Produtos comerciais e sistemas internos são, em regra,
+proprietários. SDKs públicos, exemplos e componentes open-source selecionados
+podem utilizar licenças próprias.
 
-Uma boa tecnologia deve ser intuitiva, funcionar de forma fiável e acompanhar a evolução dos seus utilizadores.
+Nomes, logótipos, identidades de produto, recursos visuais, mascotes, vídeos e
+materiais de marca não estão autorizados para reutilização, salvo indicação
+expressa.
 
-## Visão
+## Contacto
 
-A nossa visão é criar tecnologia globalmente relevante e com uma identidade própria—combinando raízes cabo-verdianas, design cuidado e engenharia sólida.
-
-> Raízes cabo-verdianas. Perspetiva global. Tecnologia com significado.
-
-## Conheça o Studio
-
-Descubra mais sobre a nossa identidade, capacidades e direção:
-
-**[cabral-djassi-studio.vercel.app](https://cabral-djassi-studio.vercel.app/)**
+Para informações oficiais, colaborações ou parcerias, utilize os canais
+disponíveis no
+[site da Cabral Djassi Studio](https://cabral-djassi-studio.vercel.app/).
 
 ---
 
-<div align="center">
-
-Construído com identidade. Criado para o mundo. 🇨🇻 🌍
-
-</div>
+<sub>Copyright © 2026 Cabral Djassi Studio. Todos os direitos reservados.</sub>

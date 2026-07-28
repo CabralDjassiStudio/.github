@@ -2,77 +2,70 @@
 
 # Cabral Djassi Studio
 
-### Thoughtful digital experiences. Reliable engineering. Global perspective.
+### Digital products shaped by Cape Verdean roots and built for a worldwide audience.
 
-<p>
-  <strong>English</strong> ·
-  <a href="./README.pt.md">Português</a> ·
-  <a href="./README.fr.md">Français</a>
-</p>
+[English](README.md) · [Português](README.pt.md) · [Français](README.fr.md)
 
-<p>
-  <a href="https://cabral-djassi-studio.vercel.app/"><strong>Visit the Studio ↗</strong></a>
-</p>
+[Visit the Studio](https://cabral-djassi-studio.vercel.app/)
 
 </div>
 
 ---
 
-## About
+## About the Studio
 
-Cabral Djassi Studio is an independent digital product and engineering studio with Cape Verdean roots and a global outlook.
+Cabral Djassi Studio is an independent digital product and software studio
+focused on building thoughtful, reliable, distinctive, and future-ready
+technology experiences.
 
-We transform ideas and real-world challenges into thoughtful digital experiences, scalable software, and dependable technology. Our work brings together product strategy, modern design, and strong engineering to create solutions that are useful, accessible, and built to evolve.
+The Studio combines product strategy, software engineering, interface design,
+automation, data, and emerging technologies to transform ideas into coherent
+digital products. Its work is guided by a global perspective, Cape Verdean
+roots, and a commitment to systems that are useful, inclusive, maintainable,
+and prepared to evolve.
 
-The name **Djassi** reflects identity, creativity, and the ambition to build technology from our own perspective—connected to Africa and open to the world.
+## What we value
 
-## What defines the Studio
+**Purpose before features**  
+Every product should solve a meaningful problem and communicate its value clearly.
 
-- Purposeful product strategy and design
-- Modern, accessible, and responsive experiences
-- Reliable, secure, and maintainable engineering
-- Thoughtful application of artificial intelligence
-- Scalable system architecture
-- Interactive, motion-driven digital experiences
-- Technology adapted to real people and real contexts
+**Design with identity**  
+Interfaces should feel intentional, human, and different from generic,
+template-driven experiences.
 
-## How we think about engineering
+**Engineering for continuity**  
+Architecture, security, accessibility, documentation, and maintainability are
+core product requirements.
 
-We look beyond the interface. Every product is treated as a complete system—from the experience people see to the architecture, security, performance, data, and integrations supporting it.
+**Global reach, local awareness**  
+Products are designed for diverse users and contexts while preserving the
+cultural perspective that shapes the Studio.
 
-We pay particular attention to:
+## Areas of work
 
-- Clear APIs and well-organized integrations
-- Secure authentication and protected endpoints
-- Well-modelled data and appropriate indexing
-- Performance, caching, and scalability
-- Resilience and graceful recovery from failure
-- Idempotent operations and duplicate prevention
-- Background processing for long-running tasks
-- Maintainable code and meaningful validation
+- Digital products and SaaS platforms
+- Web applications and connected services
+- Workflow and process automation
+- Data-driven operational systems
+- AI-assisted product experiences
+- Product architecture and design systems
 
-## Our approach
+## Repository notice
 
-We begin by understanding the problem and its context. We then shape the product experience, design the underlying system, build carefully, validate the result, and continue improving it.
+Public repositories may use different licenses according to their purpose.
+Commercial products and internal systems are generally proprietary. Public SDKs,
+examples, and selected open-source components may use repository-specific
+open-source licenses.
 
-Good technology should feel intuitive, work reliably, and remain capable of evolving with its users.
+Names, logos, product identities, visual assets, mascots, videos, and other
+brand materials are not licensed for reuse unless expressly stated.
 
-## Vision
+## Contact
 
-Our vision is to build globally relevant technology with a distinctive identity—combining Cape Verdean roots, thoughtful design, and strong engineering.
-
-> Cape Verdean roots. Global perspective. Meaningful technology.
-
-## Discover the Studio
-
-Learn more about our identity, capabilities, and direction:
-
-**[cabral-djassi-studio.vercel.app](https://cabral-djassi-studio.vercel.app/)**
+For official information, collaboration, or partnership enquiries, use the
+channels available on the
+[Cabral Djassi Studio website](https://cabral-djassi-studio.vercel.app/).
 
 ---
 
-<div align="center">
-
-Built with identity. Created for the world. 🇨🇻 🌍
-
-</div>
+<sub>Copyright © 2026 Cabral Djassi Studio. All rights reserved.</sub>
