@@ -1,0 +1,128 @@
+CABRAL DJASSI STUDIO PROPRIETARY LICENSE
+Version 1.0 — 2026
+
+Copyright (c) 2026 Cabral Djassi Studio.
+All rights reserved.
+
+1. OWNERSHIP
+
+This repository, including its original source code, documentation, designs,
+written content, configuration files, workflows, diagrams, media, and other
+original materials (collectively, the “Software”), is proprietary to Cabral
+Djassi Studio or to the respective identified rights holder.
+
+The Software is protected by applicable copyright, intellectual-property,
+contract, and unfair-competition laws.
+
+2. NO OPEN-SOURCE LICENSE GRANTED
+
+Public visibility, access through GitHub, publication, demonstration, or use of
+the Software as an online service does not place the Software in the public
+domain and does not make it open source.
+
+Except for the limited rights technically necessary to view this repository
+through GitHub in accordance with GitHub’s Terms of Service, no license or other
+rights are granted, whether expressly, implicitly, by estoppel, or otherwise.
+
+3. RESTRICTIONS
+
+Without prior written authorization from Cabral Djassi Studio or the applicable
+rights holder, you may not, in whole or in part:
+
+a. copy, reproduce, download, redistribute, publish, sublicense, sell, lease,
+   assign, transfer, or commercially exploit the Software;
+
+b. modify, adapt, translate, merge, port, or create derivative works based on
+   the Software;
+
+c. use the Software, its source code, architecture, documentation, designs, or
+   other original materials to build, train, benchmark, reproduce, or operate a
+   competing or substantially similar product or service;
+
+d. host, deploy, provide, or make the Software available as software as a
+   service, platform as a service, managed service, or other network-accessible
+   service;
+
+e. remove, alter, obscure, or misrepresent copyright, authorship, proprietary,
+   attribution, or legal notices;
+
+f. bypass access controls or obtain non-public source code, credentials,
+   infrastructure details, data, or protected resources;
+
+g. reverse engineer, decompile, disassemble, or otherwise attempt to derive
+   protected non-public components, except where such a restriction is
+   prohibited by mandatory applicable law.
+
+4. PERMITTED USE
+
+No use is permitted unless Cabral Djassi Studio provides a separate written
+authorization, commercial agreement, contributor agreement, partnership
+agreement, or repository-specific license.
+
+Any authorized use is limited strictly to the scope, duration, users, systems,
+and purposes described in that written authorization.
+
+5. CONTRIBUTIONS
+
+No contribution, pull request, issue, suggestion, design, code, or other
+submission transfers ownership or grants Cabral Djassi Studio relicensing
+rights unless the contributor has accepted a separate written contribution
+agreement.
+
+Cabral Djassi Studio may reject, remove, or decline to use any submission.
+
+6. THIRD-PARTY MATERIALS
+
+Third-party libraries, frameworks, fonts, images, media, services, and other
+dependencies remain governed by their respective licenses and terms.
+
+This license applies only to original materials owned by Cabral Djassi Studio
+or the expressly identified rights holder. Nothing in this license overrides
+the rights or obligations attached to third-party materials.
+
+7. TRADEMARKS AND BRAND ASSETS
+
+No permission is granted to use the names, trademarks, service marks, product
+names, logos, icons, mascots, visual identity, videos, illustrations, or brand
+assets of Cabral Djassi Studio or its products.
+
+Any authorized software use does not include trademark or brand-use rights
+unless those rights are granted separately in writing.
+
+8. CONFIDENTIALITY
+
+Any non-public code, documentation, credentials, architecture, business logic,
+data, roadmap, pricing, security information, or operational information
+obtained through authorized access must be treated as confidential unless a
+written agreement states otherwise.
+
+9. NO WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED “AS IS” AND
+“AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY,
+NON-INFRINGEMENT, AVAILABILITY, OR SECURITY.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, CABRAL DJASSI STUDIO AND THE APPLICABLE
+RIGHTS HOLDERS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF
+DATA, PROFITS, REVENUE, BUSINESS, REPUTATION, OR OPPORTUNITY ARISING FROM OR
+RELATED TO THE SOFTWARE.
+
+11. ENFORCEMENT AND RESERVATION OF RIGHTS
+
+Unauthorized use may result in suspension of access and the pursuit of
+available contractual, civil, administrative, or other legal remedies.
+
+All rights not expressly granted in a separate written authorization are
+reserved.
+
+12. CONTACT AND COMMERCIAL LICENSING
+
+Requests for authorization, partnership, evaluation, contribution, or
+commercial licensing must be submitted through an official Cabral Djassi
+Studio communication channel or the official GitHub organization.
+
+END OF LICENSE
