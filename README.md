@@ -50,6 +50,6 @@ Learn more about our identity, capabilities and direction:
 
 <div align="center">
 
-Built with purpose in Cabo Verde. 🇨🇻
-
+Built with purpose in Cabo Verde, Portugal, France and anywhere in the world!
+Come and join our journey to success and prosperity!
 </div>
