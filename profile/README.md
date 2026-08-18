@@ -6,7 +6,7 @@
 
 [English](README.md) · [Português](README.pt.md) · [Français](README.fr.md)
 
-[Visit the Studio](https://cabral-djassi-studio.vercel.app/)
+[Visit the Studio](https://cabraldjassi.com/)
 
 </div>
 
@@ -64,7 +64,7 @@ brand materials are not licensed for reuse unless expressly stated.
 
 For official information, collaboration, or partnership enquiries, use the
 channels available on the
-[Cabral Djassi Studio website](https://cabral-djassi-studio.vercel.app/).
+[Cabral Djassi Studio website](https://cabraldjassi.com/).
 
 ---
 
