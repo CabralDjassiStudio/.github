@@ -6,7 +6,7 @@
 
 [English](README.md) · [Português](README.pt.md) · [Français](README.fr.md)
 
-[Visitar o Studio](https://cabral-djassi-studio.vercel.app/)
+[Visitar o Studio](https://cabraldjassi.com/)
 
 </div>
 
@@ -65,7 +65,7 @@ expressa.
 
 Para informações oficiais, colaborações ou parcerias, utilize os canais
 disponíveis no
-[site da Cabral Djassi Studio](https://cabral-djassi-studio.vercel.app/).
+[site da Cabral Djassi Studio](https://cabraldjassi.com/).
 
 ---
 
