@@ -4,7 +4,7 @@
 
 | Path | Purpose |
 |---|---|
-| `profile/README.md` | Public organization profile |
+| `profile/README.md` | Public organization profile (English default) |
 | `README.md` | `.github` repository README |
 | `CODE_OF_CONDUCT.md` | Community behavior |
 | `CONTRIBUTING.md` | Contribution guidance |
@@ -25,10 +25,11 @@
 | `INSTALLATION.md` | Setup instructions |
 | `FILE_MANIFEST.md` | Package reference |
 
-## Languages
+## Organization profile languages
 
 | Path | Language |
 |---|---|
 | `profile/README.md` | English |
 | `profile/README.pt.md` | Portuguese |
 | `profile/README.fr.md` | French |
+| `profile/README.cv.md` | Kabuverdianu |
