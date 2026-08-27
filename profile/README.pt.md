@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/cabral-djassi-studio-banner.svg" alt="Cabral Djassi Studio — raízes cabo-verdianas ligadas a produtos digitais, software, design e tecnologia global" width="100%" />
-
 # Cabral Djassi Studio
 
-### Raízes cabo-verdianas. Ambição global. Produtos construídos para durar.
+### Raízes cabo-verdianas. Visão global. Produtos digitais construídos com propósito.
 
 [English](README.md) · [Português](README.pt.md) · [Français](README.fr.md) · [Kabuverdianu](README.cv.md)
 
-[Explorar o Studio](https://cabraldjassi.com/)
+[Visitar cabraldjassi.com](https://cabraldjassi.com/)
 
 </div>
 
@@ -16,9 +14,9 @@
 
 ## Sobre o Studio
 
-A **Cabral Djassi Studio** é um estúdio independente de produtos digitais e software, moldado por Cabo Verde e pensado para utilização global.
+A **Cabral Djassi Studio** é um estúdio independente de produtos digitais e software, com raízes cabo-verdianas e uma visão global.
 
-Transformamos ideias em produtos reais, combinando pensamento de produto, design de interfaces, engenharia de software, automação, dados e IA quando estas tecnologias acrescentam valor claro. O objetivo não é criar tecnologia por criar, mas construir sistemas úteis, com identidade própria, engenharia sólida e capacidade para evoluir.
+Concebemos, construímos e fazemos evoluir produtos digitais combinando pensamento de produto, design de interfaces, engenharia de software, automação, dados e IA quando estas tecnologias acrescentam valor real. A tecnologia é um meio, não a mensagem: o objetivo é resolver problemas úteis com produtos claros, fiáveis, distintos e preparados para crescer ao longo do tempo.
 
 O Studio reúne uma família crescente de produtos, plataformas, experiências e sistemas internos. Parte do trabalho é pública; outros projetos permanecem privados enquanto estão em desenvolvimento, validação ou operação.
 
@@ -26,33 +24,36 @@ O Studio reúne uma família crescente de produtos, plataformas, experiências e
 
 - Produtos digitais e plataformas SaaS
 - Software operacional e sistemas de back-office
-- Experiências Web, mobile-first e PWA
-- Workflows assistidos por IA e automação prática
+- Experiências Web e PWA responsivas e mobile-first
+- Automação prática e workflows assistidos por IA
 - Dados, dashboards e ferramentas de apoio à decisão
-- Plataformas para developers, integrações e ferramentas internas
+- Plataformas para developers, integrações, APIs e ferramentas internas
 
 ## Como trabalhamos
 
 **Propósito antes das funcionalidades**  
 Uma funcionalidade só merece existir quando resolve um problema real ou melhora o produto de forma relevante.
 
-**Mobile-first, depois expandir**  
-As interfaces são concebidas e validadas primeiro para mobile e, depois, adaptadas de forma intencional para tablet e desktop — em vez de simplesmente reduzir um layout de desktop.
+**Primeiro mobile, depois tablet, depois desktop**  
+As interfaces são concebidas e validadas primeiro para mobile e, depois, adaptadas de forma intencional para tablet e ecrãs maiores. Responsividade não significa simplesmente reduzir um layout pensado para desktop.
 
 **Design com identidade**  
-Evitamos experiências genéricas baseadas em templates. Os sistemas visuais devem ser intencionais, claros, humanos e reconhecíveis como próprios.
+Evitamos experiências genéricas baseadas em templates. Cada produto deve ter uma linguagem visual intencional, humana e reconhecível como própria.
 
 **Engenharia para a continuidade**  
-Arquitetura, segurança, acessibilidade, testes, documentação, manutenção e clareza operacional fazem parte do produto — não são etapas posteriores.
+Arquitetura, segurança, acessibilidade, testes, documentação, manutenção e clareza operacional são requisitos do produto, não acabamentos de última hora.
+
+**IA onde faz diferença**  
+A IA faz sentido quando melhora de forma concreta um workflow, uma decisão ou a experiência do utilizador — não apenas porque está na moda.
 
 **Raízes locais, padrões globais**  
-Cabo Verde molda a nossa perspetiva, mas cada produto é pensado para funcionar entre diferentes utilizadores, dispositivos, línguas, mercados e geografias.
+Cabo Verde molda a nossa perspetiva, enquanto cada produto é pensado para funcionar entre diferentes utilizadores, dispositivos, línguas, mercados e geografias.
 
 ## Cabo Verde no nosso trabalho
 
-Cabo Verde é mais do que o ponto de origem do Studio. Influencia a forma como pensamos sobre capacidade de adaptação, mobilidade, língua, comunidade e produtos destinados a pessoas que vivem em contextos diferentes.
+Cabo Verde é mais do que o ponto de origem do Studio. Influencia a forma como pensamos sobre adaptação, mobilidade, língua, comunidade e produtos destinados a pessoas que vivem em contextos diferentes.
 
-Queremos levar essa perspetiva para a tecnologia sem transformar identidade em decoração: os produtos devem ser contemporâneos e globalmente relevantes, mantendo consciência das suas raízes.
+Queremos levar essa perspetiva para a tecnologia sem transformar identidade em decoração: produtos contemporâneos, preparados para o mundo, mas conscientes das suas raízes.
 
 ## Repositórios, licenciamento e utilização da marca
 
