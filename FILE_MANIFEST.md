@@ -32,3 +32,4 @@
 | `profile/README.md` | English |
 | `profile/README.pt.md` | Portuguese |
 | `profile/README.fr.md` | French |
+| `profile/README.cv.md` | Kabuverdianu |
