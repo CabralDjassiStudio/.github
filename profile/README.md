@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/cabral-djassi-studio-banner.svg" alt="Cabral Djassi Studio — Cape Verdean roots connected to digital products, software, design and global technology" width="100%" />
-
 # Cabral Djassi Studio
 
-### Cape Verdean roots. Worldwide ambition. Products built to last.
+### Cape Verdean roots. Global perspective. Digital products built with purpose.
 
 [English](README.md) · [Português](README.pt.md) · [Français](README.fr.md) · [Kabuverdianu](README.cv.md)
 
-[Explore the Studio](https://cabraldjassi.com/)
+[Visit cabraldjassi.com](https://cabraldjassi.com/)
 
 </div>
 
@@ -16,43 +14,46 @@
 
 ## About the Studio
 
-**Cabral Djassi Studio** is an independent digital product and software studio shaped by Cape Verde and built for global use.
+**Cabral Djassi Studio** is an independent digital product and software studio with Cape Verdean roots and a global outlook.
 
-We turn ideas into real products by bringing together product thinking, interface design, software engineering, automation, data, and AI where it creates clear value. The goal is not to ship technology for its own sake, but to build useful systems with a strong identity, sound engineering, and room to evolve.
+We design, build, and evolve digital products by combining product thinking, interface design, software engineering, automation, data, and AI where it creates real value. Technology is a means, not the message: the goal is to solve useful problems with products that are clear, reliable, distinctive, and able to grow over time.
 
-The Studio is home to a growing family of products, platforms, experiments, and internal systems. Some work is public; other projects remain private while they are being developed, validated, or operated.
+The Studio brings together a growing family of products, platforms, experiments, and internal systems. Some work is public; other projects remain private while they are being developed, validated, or operated.
 
 ## What we build
 
 - Digital products and SaaS platforms
 - Operational software and back-office systems
-- Web, mobile-first, and PWA experiences
-- AI-assisted workflows and practical automation
+- Responsive, mobile-first Web and PWA experiences
+- Practical automation and AI-assisted workflows
 - Data, dashboards, and decision-support tools
-- Developer platforms, integrations, and internal tooling
+- Developer platforms, integrations, APIs, and internal tooling
 
 ## How we work
 
 **Purpose before features**  
-A feature earns its place by solving a real problem or making a product meaningfully better.
+A feature earns its place by solving a real problem or making the product meaningfully better.
 
-**Mobile first, then wider**  
-Interfaces are designed and validated for mobile first, then adapted deliberately for tablet and desktop instead of simply shrinking a desktop layout.
+**Mobile first, then tablet, then desktop**  
+Interfaces are designed and validated for mobile first, then adapted deliberately for tablet and larger screens. We do not treat responsiveness as a desktop layout simply made smaller.
 
 **Design with identity**  
-We avoid generic, template-driven experiences. Visual systems should feel intentional, clear, human, and recognizably their own.
+We avoid generic, template-driven experiences. Each product should have a visual language that feels intentional, human, and recognizably its own.
 
 **Engineering for continuity**  
-Architecture, security, accessibility, testing, documentation, maintainability, and operational clarity are part of the product — not afterthoughts.
+Architecture, security, accessibility, testing, documentation, maintainability, and operational clarity are product requirements, not finishing touches.
+
+**Use AI where it helps**  
+AI belongs in a product when it improves a workflow, decision, or user experience in a measurable way — not because it is fashionable.
 
 **Local roots, global standards**  
 Cape Verde shapes our perspective, while every product is designed to work across users, devices, languages, markets, and borders.
 
 ## Cape Verde in the work
 
-Cape Verde is more than a point of origin for the Studio. It informs how we think about resourcefulness, movement, language, community, and building for people who live across different contexts.
+Cape Verde is more than the Studio's point of origin. It influences how we think about adaptability, movement, language, community, and building for people who live across different contexts.
 
-Our aim is to carry that perspective into technology without turning identity into decoration: products should feel contemporary and globally relevant while still knowing where they come from.
+We want that perspective to be present without turning identity into decoration: contemporary products, made for the world, with a clear sense of where they come from.
 
 ## Repositories, licensing, and brand use
 
