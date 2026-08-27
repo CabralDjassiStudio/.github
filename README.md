@@ -1,17 +1,15 @@
 # Cabral Djassi Studio — Organization Community Repository
 
-This is the special public `.github` repository for the **Cabral Djassi Studio**
-GitHub organization.
+This is the special public `.github` repository for the **Cabral Djassi Studio** GitHub organization.
 
-It contains the public organization profile, contribution standards, governance,
-security guidance, licensing rules, brand rules, issue forms, and pull request
-templates.
+It contains the public organization profile, contribution standards, governance, security guidance, licensing rules, brand rules, issue forms, and pull request templates.
 
 ## Organization profile
 
 - [`profile/README.md`](profile/README.md) — English
 - [`profile/README.pt.md`](profile/README.pt.md) — Português
 - [`profile/README.fr.md`](profile/README.fr.md) — Français
+- [`profile/README.cv.md`](profile/README.cv.md) — Kabuverdianu
 
 ## Main policies
 
@@ -28,11 +26,9 @@ templates.
 
 ## Important scope rule
 
-The `LICENSE` in this repository applies only to the original content of this
-repository. It does not automatically license the other repositories in the
-organization. Every project must contain its own license or proprietary notice.
+The `LICENSE` in this repository applies only to the original content of this repository. It does not automatically license the other repositories in the organization. Every project must contain its own license or proprietary notice.
 
-[Visit Cabral Djassi Studio](https://cabral-djassi-studio.vercel.app/)
+[Visit Cabral Djassi Studio](https://cabraldjassi.com/)
 
 ---
 
