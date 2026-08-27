@@ -34,7 +34,7 @@ Never report vulnerabilities publicly. Follow [`SECURITY.md`](SECURITY.md).
 ## Commercial, partnership, and licensing requests
 
 Use an official channel available on the
-[Cabral Djassi Studio website](https://cabral-djassi-studio.vercel.app/).
+[Cabral Djassi Studio website](https://cabraldjassi.com/).
 
 ## Not suitable for public support
 
