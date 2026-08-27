@@ -4,7 +4,7 @@
 
 # Cabral Djassi Studio
 
-### Des racines cap-verdiennes. Une ambition mondiale. Construire sans frontières.
+### Des racines cap-verdiennes. Une ambition mondiale. Des produits numériques conçus pour le monde.
 
 [English](README.md) · [Português](README.pt.md) · [Français](README.fr.md) · [Kabuverdianu](README.cv.md)
 
@@ -16,48 +16,41 @@
 
 ## À propos du Studio
 
-**Cabral Djassi Studio** est un studio indépendant de produits numériques et de logiciels, avec des racines cap-verdiennes et une ambition mondiale.
+**Cabral Djassi Studio** est un studio indépendant de produits numériques et de logiciels, avec des racines cap-verdiennes et une vision mondiale.
 
-Le Studio n’est pas lié à un lieu unique. Nous pouvons concevoir, construire, collaborer et livrer depuis n’importe où, pour des utilisateurs, des équipes et des partenaires dans différents pays, marchés et fuseaux horaires.
+Nous transformons des idées, des besoins métiers et des défis opérationnels en produits numériques et systèmes logiciels utiles. Notre travail réunit réflexion produit, ingénierie logicielle, design d’interface, données, automatisation et IA afin de créer des solutions qui peuvent être utilisées, exploitées et faire évoluer dans des contextes réels.
 
-Nous concevons, construisons et faisons évoluer des produits numériques en réunissant réflexion produit, design d’interface, ingénierie logicielle, automatisation, données et IA lorsque ces technologies apportent une valeur réelle. La technologie est un moyen, pas le message : l’objectif est de résoudre des problèmes utiles avec des produits clairs, fiables, distinctifs et capables de grandir dans le temps.
+Le Studio développe ses propres produits et peut également collaborer avec des équipes, des organisations et des partenaires sur de nouvelles initiatives numériques.
 
-Le Studio rassemble une famille croissante de produits, plateformes, expérimentations et systèmes internes. Une partie du travail est publique ; d’autres projets restent privés pendant leur développement, leur validation ou leur exploitation.
+## Notre mission
 
-## Ce que nous construisons
+Notre mission est de construire des technologies qui résolvent des problèmes réels, créent une valeur concrète et peuvent évoluer avec les personnes et les organisations qui les utilisent.
+
+Nous cherchons à relier une ingénierie solide à une vision produit claire afin de transformer une idée en une solution numérique fonctionnelle, maintenable et capable d’évoluer.
+
+## Ce que nous pouvons construire
 
 - Produits numériques et plateformes SaaS
-- Logiciels opérationnels et systèmes de back-office
-- Expériences Web et PWA responsives et mobile-first
-- Automatisation concrète et workflows assistés par l’IA
-- Données, dashboards et outils d’aide à la décision
-- Plateformes développeur, intégrations, APIs et outils internes
+- Applications Web et Progressive Web Apps
+- Logiciels métiers et opérationnels
+- Systèmes de back-office et de gestion interne
+- Services backend, APIs et intégrations
+- Plateformes de données, dashboards et outils d’aide à la décision
+- Automatisation de workflows et de processus
+- Fonctionnalités assistées par l’IA, agents et workflows intelligents
+- Outils développeur, plateformes internes et intégrations techniques
 
-## Notre manière de travailler
+## De l’idée au produit
 
-**Le sens avant les fonctionnalités**  
-Une fonctionnalité mérite sa place lorsqu’elle résout un problème réel ou améliore le produit de manière significative.
+Le Studio peut intervenir tout au long du cycle de vie du produit, notamment sur la découverte, la définition produit, le design d’interface et d’expérience, l’architecture logicielle, l’implémentation, les intégrations, les tests, le déploiement, la documentation et l’évolution continue.
 
-**Mobile d’abord, puis tablette, puis desktop**  
-Les interfaces sont d’abord conçues et validées pour le mobile, puis adaptées intentionnellement aux tablettes et aux écrans plus larges. La responsivité ne consiste pas à simplement réduire une interface pensée pour le desktop.
+L’approche dépend du problème, du produit, des utilisateurs, du contexte technique et du stade de développement.
 
-**Un design avec une identité**  
-Nous évitons les expériences génériques dictées par des templates. Chaque produit doit avoir un langage visuel intentionnel, humain et reconnaissable.
+## Portée mondiale
 
-**Une ingénierie pensée pour la continuité**  
-Architecture, sécurité, accessibilité, tests, documentation, maintenabilité et clarté opérationnelle sont des exigences du produit, pas des finitions de dernière minute.
+Le Cap-Vert fait partie de l’identité du Studio, mais ne constitue pas une limite géographique.
 
-**L’IA là où elle est utile**  
-L’IA a sa place lorsqu’elle améliore concrètement un workflow, une décision ou l’expérience utilisateur — pas simplement parce qu’elle est à la mode.
-
-**Mondial par nature**  
-Le Cap-Vert fait partie de notre identité, mais ne constitue pas une limite géographique. Le Studio est indépendant du lieu, prêt pour le travail à distance et ouvert à construire, travailler et collaborer partout dans le monde.
-
-## Identité cap-verdienne, portée mondiale
-
-Les racines cap-verdiennes influencent notre manière de penser l’adaptation, la mobilité, la langue, la communauté et les liens entre différents contextes. Cette identité accompagne le Studio, mais ne définit pas l’endroit où nous devons vivre ou travailler.
-
-Notre ambition est de créer des produits contemporains pour un public mondial tout en gardant une conscience claire de la perspective et de la culture qui nous ont façonnés.
+Cabral Djassi Studio est indépendant du lieu et peut construire, collaborer et livrer dans différents pays, marchés et fuseaux horaires. Notre ambition est de créer des produits capables de servir des utilisateurs et des organisations partout dans le monde tout en conservant la perspective de nos racines cap-verdiennes.
 
 ## Dépôts, licences et utilisation de la marque
 
