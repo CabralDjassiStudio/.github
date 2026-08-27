@@ -45,7 +45,10 @@ git push origin main
 ├── profile/
 │   ├── README.md
 │   ├── README.pt.md
-│   └── README.fr.md
+│   ├── README.fr.md
+│   ├── README.cv.md
+│   └── assets/
+│       └── cabral-djassi-studio-global-banner.webp
 └── .github/
     ├── PULL_REQUEST_TEMPLATE.md
     └── ISSUE_TEMPLATE/
@@ -60,16 +63,16 @@ git push origin main
 Confirm that:
 
 1. `https://github.com/cabraldjassistudio` displays `profile/README.md`.
-2. The `.github` repository shows README, code of conduct, contributing,
-   license, and security shortcuts.
+2. The `.github` repository shows README, code of conduct, contributing, license, and security shortcuts.
 3. Issue forms are available.
-4. EN/PT/FR profile links work.
-5. The Security tab displays the policy.
+4. EN/PT/FR/CV profile links work.
+5. The organization profile banner renders correctly.
+6. The Security tab displays the policy.
+7. Public links use the canonical `https://cabraldjassi.com/` domain.
 
 ## License limitation
 
-The included `LICENSE` applies only to this `.github` repository. Every product
-repository needs its own license according to `LICENSING_POLICY.md`.
+The included `LICENSE` applies only to this `.github` repository. Every product repository needs its own license according to `LICENSING_POLICY.md`.
 
 ## Recommended settings
 
@@ -82,8 +85,6 @@ repository needs its own license according to `LICENSING_POLICY.md`.
 
 ## Before publication
 
-Review the website URL, copyright year, future private security contact, and
-organization owner settings.
+Review the website URL, copyright year, future private security contact, and organization owner settings.
 
-The legal documents are practical templates and are not jurisdiction-specific
-legal advice.
+The legal documents are practical templates and are not jurisdiction-specific legal advice.

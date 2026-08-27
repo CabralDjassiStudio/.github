@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/cabral-djassi-studio-banner.svg" alt="Cabral Djassi Studio — des racines cap-verdiennes reliées aux produits numériques, au logiciel, au design et à la technologie mondiale" width="100%" />
+<img src="assets/cabral-djassi-studio-global-banner.webp" alt="Cabral Djassi Studio — racines cap-verdiennes, ambition mondiale, ingénierie logicielle et produits numériques pour le monde" width="100%" />
 
 # Cabral Djassi Studio
 
-### Des racines cap-verdiennes. Une ambition mondiale. Des produits conçus pour durer.
+### Des racines cap-verdiennes. Une ambition mondiale. Construire sans frontières.
 
 [English](README.md) · [Português](README.pt.md) · [Français](README.fr.md) · [Kabuverdianu](README.cv.md)
 
-[Découvrir le Studio](https://cabraldjassi.com/)
+[Visiter cabraldjassi.com](https://cabraldjassi.com/)
 
 </div>
 
@@ -16,9 +16,11 @@
 
 ## À propos du Studio
 
-**Cabral Djassi Studio** est un studio indépendant de produits numériques et de logiciels, façonné par le Cap-Vert et pensé pour un usage mondial.
+**Cabral Djassi Studio** est un studio indépendant de produits numériques et de logiciels, avec des racines cap-verdiennes et une ambition mondiale.
 
-Nous transformons des idées en produits réels en réunissant réflexion produit, design d’interface, ingénierie logicielle, automatisation, données et IA lorsque ces technologies apportent une valeur claire. L’objectif n’est pas de produire de la technologie pour elle-même, mais de construire des systèmes utiles, dotés d’une identité forte, d’une ingénierie solide et capables d’évoluer.
+Le Studio n’est pas lié à un lieu unique. Nous pouvons concevoir, construire, collaborer et livrer depuis n’importe où, pour des utilisateurs, des équipes et des partenaires dans différents pays, marchés et fuseaux horaires.
+
+Nous concevons, construisons et faisons évoluer des produits numériques en réunissant réflexion produit, design d’interface, ingénierie logicielle, automatisation, données et IA lorsque ces technologies apportent une valeur réelle. La technologie est un moyen, pas le message : l’objectif est de résoudre des problèmes utiles avec des produits clairs, fiables, distinctifs et capables de grandir dans le temps.
 
 Le Studio rassemble une famille croissante de produits, plateformes, expérimentations et systèmes internes. Une partie du travail est publique ; d’autres projets restent privés pendant leur développement, leur validation ou leur exploitation.
 
@@ -26,33 +28,36 @@ Le Studio rassemble une famille croissante de produits, plateformes, expériment
 
 - Produits numériques et plateformes SaaS
 - Logiciels opérationnels et systèmes de back-office
-- Expériences Web, mobile-first et PWA
-- Workflows assistés par l’IA et automatisation concrète
+- Expériences Web et PWA responsives et mobile-first
+- Automatisation concrète et workflows assistés par l’IA
 - Données, dashboards et outils d’aide à la décision
-- Plateformes développeur, intégrations et outils internes
+- Plateformes développeur, intégrations, APIs et outils internes
 
 ## Notre manière de travailler
 
 **Le sens avant les fonctionnalités**  
 Une fonctionnalité mérite sa place lorsqu’elle résout un problème réel ou améliore le produit de manière significative.
 
-**Mobile-first, puis plus large**  
-Les interfaces sont d’abord conçues et validées pour le mobile, puis adaptées intentionnellement aux tablettes et au desktop — au lieu de simplement réduire une interface pensée pour grand écran.
+**Mobile d’abord, puis tablette, puis desktop**  
+Les interfaces sont d’abord conçues et validées pour le mobile, puis adaptées intentionnellement aux tablettes et aux écrans plus larges. La responsivité ne consiste pas à simplement réduire une interface pensée pour le desktop.
 
 **Un design avec une identité**  
-Nous évitons les expériences génériques dictées par des templates. Les systèmes visuels doivent être intentionnels, clairs, humains et reconnaissables.
+Nous évitons les expériences génériques dictées par des templates. Chaque produit doit avoir un langage visuel intentionnel, humain et reconnaissable.
 
 **Une ingénierie pensée pour la continuité**  
-Architecture, sécurité, accessibilité, tests, documentation, maintenabilité et clarté opérationnelle font partie du produit — ce ne sont pas des ajouts de dernière minute.
+Architecture, sécurité, accessibilité, tests, documentation, maintenabilité et clarté opérationnelle sont des exigences du produit, pas des finitions de dernière minute.
 
-**Des racines locales, des standards mondiaux**  
-Le Cap-Vert façonne notre perspective, tandis que chaque produit est pensé pour fonctionner entre différents utilisateurs, appareils, langues, marchés et territoires.
+**L’IA là où elle est utile**  
+L’IA a sa place lorsqu’elle améliore concrètement un workflow, une décision ou l’expérience utilisateur — pas simplement parce qu’elle est à la mode.
 
-## Le Cap-Vert dans notre travail
+**Mondial par nature**  
+Le Cap-Vert fait partie de notre identité, mais ne constitue pas une limite géographique. Le Studio est indépendant du lieu, prêt pour le travail à distance et ouvert à construire, travailler et collaborer partout dans le monde.
 
-Le Cap-Vert est plus qu’un point d’origine pour le Studio. Il influence notre manière de penser l’adaptabilité, la mobilité, la langue, la communauté et les produits destinés à des personnes vivant dans des contextes différents.
+## Identité cap-verdienne, portée mondiale
 
-Notre ambition est d’apporter cette perspective à la technologie sans transformer l’identité en décoration : les produits doivent rester contemporains et pertinents à l’échelle mondiale tout en sachant d’où ils viennent.
+Les racines cap-verdiennes influencent notre manière de penser l’adaptation, la mobilité, la langue, la communauté et les liens entre différents contextes. Cette identité accompagne le Studio, mais ne définit pas l’endroit où nous devons vivre ou travailler.
+
+Notre ambition est de créer des produits contemporains pour un public mondial tout en gardant une conscience claire de la perspective et de la culture qui nous ont façonnés.
 
 ## Dépôts, licences et utilisation de la marque
 
