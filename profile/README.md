@@ -4,7 +4,7 @@
 
 # Cabral Djassi Studio
 
-### Cape Verdean roots. Global ambition. Building without borders.
+### Cape Verdean roots. Global ambition. Digital products built for the world.
 
 [English](README.md) · [Português](README.pt.md) · [Français](README.fr.md) · [Kabuverdianu](README.cv.md)
 
@@ -16,48 +16,41 @@
 
 ## About the Studio
 
-**Cabral Djassi Studio** is an independent digital product and software studio with Cape Verdean roots and worldwide ambitions.
+**Cabral Djassi Studio** is an independent digital product and software studio with Cape Verdean roots and a global outlook.
 
-The Studio is not tied to a single location. We design, build, collaborate, and deliver from wherever the work takes us, for users, teams, and partners across countries, markets, and time zones.
+We turn ideas, business needs, and operational challenges into useful digital products and software systems. Our work brings together product thinking, software engineering, interface design, data, automation, and AI to create solutions that can be used, operated, and evolved in the real world.
 
-We create and evolve digital products by combining product thinking, interface design, software engineering, automation, data, and AI where it creates real value. Technology is a means, not the message: the goal is to solve useful problems with products that are clear, reliable, distinctive, and able to grow over time.
+The Studio develops its own products and can also collaborate with teams, organizations, and partners on new digital initiatives.
 
-The Studio brings together a growing family of products, platforms, experiments, and internal systems. Some work is public; other projects remain private while they are being developed, validated, or operated.
+## Our purpose
 
-## What we build
+Our purpose is to build technology that solves real problems, creates practical value, and can grow with the people and organizations that use it.
+
+We aim to connect strong engineering with clear product thinking so that an idea can move from concept to a working, maintainable digital solution.
+
+## What we can build
 
 - Digital products and SaaS platforms
-- Operational software and back-office systems
-- Responsive, mobile-first Web and PWA experiences
-- Practical automation and AI-assisted workflows
-- Data, dashboards, and decision-support tools
-- Developer platforms, integrations, APIs, and internal tooling
+- Web applications and Progressive Web Apps
+- Business and operational software
+- Back-office and internal management systems
+- Backend services, APIs, and integrations
+- Data platforms, dashboards, and decision-support tools
+- Workflow and process automation
+- AI-assisted features, agents, and intelligent workflows
+- Developer tools, internal platforms, and technical integrations
 
-## How we work
+## From idea to product
 
-**Purpose before features**  
-A feature earns its place by solving a real problem or making the product meaningfully better.
+The Studio can contribute across the product lifecycle, including discovery, product definition, interface and experience design, software architecture, implementation, integrations, testing, deployment, documentation, and continued product evolution.
 
-**Mobile first, then tablet, then desktop**  
-Interfaces are designed and validated for mobile first, then adapted deliberately for tablet and larger screens. We do not treat responsiveness as a desktop layout simply made smaller.
+The exact approach depends on the problem, product, users, technical environment, and stage of development.
 
-**Design with identity**  
-We avoid generic, template-driven experiences. Each product should have a visual language that feels intentional, human, and recognizably its own.
+## Global reach
 
-**Engineering for continuity**  
-Architecture, security, accessibility, testing, documentation, maintainability, and operational clarity are product requirements, not finishing touches.
+Cape Verde is part of the Studio's identity, not a geographic limitation.
 
-**Use AI where it helps**  
-AI belongs in a product when it improves a workflow, decision, or user experience in a measurable way — not because it is fashionable.
-
-**Global by default**  
-Cape Verde is part of our identity, not a geographic limitation. The Studio is location-independent, remote-ready, and open to building, working, and collaborating anywhere in the world.
-
-## Cape Verdean identity, global reach
-
-Cape Verdean roots shape how we think about adaptability, movement, language, community, and connecting different contexts. That identity travels with the Studio; it does not define where we must live or work.
-
-Our aim is to build contemporary products for a worldwide audience while keeping a clear sense of the perspective and culture that shaped us.
+Cabral Djassi Studio is location-independent and can build, collaborate, and deliver across countries, markets, and time zones. Our ambition is to create products that can serve users and organizations anywhere in the world while carrying the perspective of our Cape Verdean roots.
 
 ## Repositories, licensing, and brand use
 
