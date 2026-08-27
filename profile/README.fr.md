@@ -18,7 +18,7 @@
 
 **Cabral Djassi Studio** est un studio indépendant de produits numériques et de logiciels, avec des racines cap-verdiennes et une vision mondiale.
 
-Nous transformons des idées, des besoins métiers et des défis opérationnels en produits numériques et systèmes logiciels utiles. Notre travail réunit réflexion produit, ingénierie logicielle, design d’interface, données, automatisation et IA afin de créer des solutions qui peuvent être utilisées, exploitées et faire évoluer dans des contextes réels.
+Nous transformons des idées, des besoins métiers et des défis opérationnels en produits numériques et systèmes logiciels utiles. Notre travail réunit réflexion produit, ingénierie logicielle, design d’interface, données, automatisation et IA afin de créer des solutions qui peuvent être utilisées, exploitées et évoluer dans des contextes réels.
 
 Le Studio développe ses propres produits et peut également collaborer avec des équipes, des organisations et des partenaires sur de nouvelles initiatives numériques.
 
