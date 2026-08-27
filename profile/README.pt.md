@@ -4,7 +4,7 @@
 
 # Cabral Djassi Studio
 
-### Raízes cabo-verdianas. Ambição global. Construir sem fronteiras.
+### Raízes cabo-verdianas. Ambição global. Produtos digitais construídos para o mundo.
 
 [English](README.md) · [Português](README.pt.md) · [Français](README.fr.md) · [Kabuverdianu](README.cv.md)
 
@@ -16,48 +16,41 @@
 
 ## Sobre o Studio
 
-A **Cabral Djassi Studio** é um estúdio independente de produtos digitais e software, com raízes cabo-verdianas e ambições mundiais.
+A **Cabral Djassi Studio** é um estúdio independente de produtos digitais e software, com raízes cabo-verdianas e uma visão global.
 
-O Studio não está associado a uma localização única. Podemos conceber, construir, colaborar e entregar a partir de qualquer lugar, para utilizadores, equipas e parceiros em diferentes países, mercados e fusos horários.
+Transformamos ideias, necessidades de negócio e desafios operacionais em produtos digitais e sistemas de software úteis. O nosso trabalho combina pensamento de produto, engenharia de software, design de interfaces, dados, automação e IA para criar soluções que possam ser utilizadas, operadas e evoluídas em contextos reais.
 
-Concebemos, construímos e fazemos evoluir produtos digitais combinando pensamento de produto, design de interfaces, engenharia de software, automação, dados e IA quando estas tecnologias acrescentam valor real. A tecnologia é um meio, não a mensagem: o objetivo é resolver problemas úteis com produtos claros, fiáveis, distintos e preparados para crescer ao longo do tempo.
+O Studio desenvolve os seus próprios produtos e pode também colaborar com equipas, organizações e parceiros em novas iniciativas digitais.
 
-O Studio reúne uma família crescente de produtos, plataformas, experiências e sistemas internos. Parte do trabalho é pública; outros projetos permanecem privados enquanto estão em desenvolvimento, validação ou operação.
+## O nosso propósito
 
-## O que construímos
+O nosso propósito é construir tecnologia que resolva problemas reais, crie valor prático e possa crescer com as pessoas e organizações que a utilizam.
+
+Procuramos ligar engenharia sólida a uma visão clara de produto, permitindo transformar uma ideia em uma solução digital funcional, sustentável e preparada para evoluir.
+
+## O que podemos construir
 
 - Produtos digitais e plataformas SaaS
-- Software operacional e sistemas de back-office
-- Experiências Web e PWA responsivas e mobile-first
-- Automação prática e workflows assistidos por IA
-- Dados, dashboards e ferramentas de apoio à decisão
-- Plataformas para developers, integrações, APIs e ferramentas internas
+- Aplicações Web e Progressive Web Apps
+- Software empresarial e operacional
+- Sistemas de back-office e gestão interna
+- Serviços backend, APIs e integrações
+- Plataformas de dados, dashboards e ferramentas de apoio à decisão
+- Automação de workflows e processos
+- Funcionalidades assistidas por IA, agentes e workflows inteligentes
+- Ferramentas para developers, plataformas internas e integrações técnicas
 
-## Como trabalhamos
+## Da ideia ao produto
 
-**Propósito antes das funcionalidades**  
-Uma funcionalidade só merece existir quando resolve um problema real ou melhora o produto de forma relevante.
+O Studio pode contribuir ao longo do ciclo de vida do produto, incluindo descoberta, definição de produto, design de interface e experiência, arquitetura de software, implementação, integrações, testes, deployment, documentação e evolução contínua.
 
-**Primeiro mobile, depois tablet, depois desktop**  
-As interfaces são concebidas e validadas primeiro para mobile e, depois, adaptadas de forma intencional para tablet e ecrãs maiores. Responsividade não significa simplesmente reduzir um layout pensado para desktop.
+A abordagem depende do problema, do produto, dos utilizadores, do contexto técnico e da fase de desenvolvimento.
 
-**Design com identidade**  
-Evitamos experiências genéricas baseadas em templates. Cada produto deve ter uma linguagem visual intencional, humana e reconhecível como própria.
+## Alcance global
 
-**Engenharia para a continuidade**  
-Arquitetura, segurança, acessibilidade, testes, documentação, manutenção e clareza operacional são requisitos do produto, não acabamentos de última hora.
+Cabo Verde faz parte da identidade do Studio, não representa uma limitação geográfica.
 
-**IA onde faz diferença**  
-A IA faz sentido quando melhora de forma concreta um workflow, uma decisão ou a experiência do utilizador — não apenas porque está na moda.
-
-**Global por natureza**  
-Cabo Verde faz parte da nossa identidade, não é uma limitação geográfica. O Studio é independente de localização, está preparado para trabalho remoto e aberto a construir, trabalhar e colaborar em qualquer lugar do mundo.
-
-## Identidade cabo-verdiana, alcance global
-
-As raízes cabo-verdianas influenciam a forma como pensamos sobre adaptação, mobilidade, língua, comunidade e ligação entre contextos diferentes. Essa identidade acompanha o Studio, mas não define onde devemos viver ou trabalhar.
-
-A nossa ambição é criar produtos contemporâneos para uma audiência mundial, mantendo uma consciência clara da perspetiva e da cultura que nos moldaram.
+A Cabral Djassi Studio é independente de localização e pode construir, colaborar e entregar em diferentes países, mercados e fusos horários. A nossa ambição é criar produtos capazes de servir utilizadores e organizações em qualquer parte do mundo, mantendo a perspetiva das nossas raízes cabo-verdianas.
 
 ## Repositórios, licenciamento e utilização da marca
 
