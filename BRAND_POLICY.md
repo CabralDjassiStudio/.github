@@ -46,7 +46,7 @@ A disclaimer may be required:
 ## Requests
 
 Submit brand-use requests through an official channel available on the
-[Cabral Djassi Studio website](https://cabral-djassi-studio.vercel.app/).
+[Cabral Djassi Studio website](https://cabraldjassi.com/).
 
 ---
 
